@@ -35,27 +35,27 @@
         <header id="header" class="header d-flex align-items-center fixed-top">
                 <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
 
-                        <a href="index.html" class="logo d-flex align-items-center">
+                        <a href="{% url 'app:index' %}" class="logo d-flex align-items-center">
                                 <h1 class="sitename">Valerie Mbaka</h1>
                          </a>
 
                         <nav id="navmenu" class="navmenu">
                                 <ul>
-                                        <li><a href="index.html" class="active">Home</a></li>
-                                        <li class="dropdown"><a href="about.html"><span>About</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+                                        <li><a href="{% url 'app:index' %}" class="active">Home</a></li>
+                                        <li class="dropdown"><a href="{% url 'app:about' %}"><span>About</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
                                                 <ul>
-                                                        <li class="dropdown"><a href="about.html"><span>About Me</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+                                                        <li class="dropdown"><a href="{% url 'app:about' %}"><span>About Me</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
                                                                 <ul>
-                                                                        <li><a href="#">Education Background</a></li>
-                                                                        <li><a href="#">Resume</a></li>
+                                                                        <li><a href="{% url 'app:about' %}">About</a></li>
+                                                                        <li><a href="{% url 'app:resume' %}">Resume</a></li>
                                                                 </ul>
                                                         </li>
-                                                        <li><a href="#">Skills</a></li>
-                                                        <li><a href="portfolio.html">Portfolio</a></li>
+                                                        <li><a href="{% url 'app:about' %}#skills">Skills</a></li>
+                                                        <li><a href="{% url 'app:portfolio' %}">Portfolio</a></li>
                                                 </ul>
                                         </li>
-                                        <li><a href="services.html">Services</a></li>
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="{% url 'app:services' %}">Services</a></li>
+                                        <li><a href="{% url 'app:contact' %}">Contact</a></li>
                                  </ul>
                                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
                         </nav>
@@ -70,8 +70,8 @@
                 <div class="container">
                         <h3 class="sitename">Valerie Mbaka</h3>
                         <div class="social-links d-flex justify-content-center">
-                                <a href=""><i class="bi bi-instagram"></i></a>
                                 <a href="https://www.linkedin.com/in/valeriembaka/"><i class="bi bi-linkedin"></i></a>
+                                <a href="https://github.com/ValerieMbaka"><i class="bi bi-github"></i></a>
                         </div>
                         <div class="container">
                                 <div class="copyright">

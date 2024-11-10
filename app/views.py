@@ -24,6 +24,3 @@ def services(request):
 
 def service_details(request):
         return render(request, 'service-details.html')
-
-def starter_page(request):
-        return render(request, 'starter-page.html')

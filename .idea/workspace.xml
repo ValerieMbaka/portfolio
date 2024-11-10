@@ -4,43 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1c1070a-55d2-4fc9-b5ce-3fc0b58af823" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/app.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/aurora.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/code.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/code1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/code2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/code3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/code4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/coding.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/cross-platform.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/instagram.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/laptop-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/pinterest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/program.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/program1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/programming.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/technology.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/tuition.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/val.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/layout.html" afterDir="false" />
+    <list default="true" id="c1c1070a-55d2-4fc9-b5ce-3fc0b58af823" name="Changes" comment="added layout.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/static/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/portfolio-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/portfolio-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/resume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/service-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/service-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/starter-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/starter-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/layout.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -73,21 +49,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/user/OneDrive/Desktop/Web Development/Django/my_portfolio/app/static/assets/img/images",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/OneDrive/Desktop/Web Development/Django/my_portfolio/app/static/assets/img/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\OneDrive\Desktop\Web Development\Django\my_portfolio\app\static\assets\img\images" />
@@ -141,10 +117,24 @@
       <workItem from="1731093452614" duration="809000" />
       <workItem from="1731170183089" duration="208000" />
       <workItem from="1731170484457" duration="8499000" />
+      <workItem from="1731216514309" duration="1856000" />
     </task>
+    <task id="LOCAL-00001" summary="added layout.html">
+      <option name="closed" value="true" />
+      <created>1731216704221</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731216704221</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added layout.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="added layout.html" />
   </component>
 </project>
