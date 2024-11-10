@@ -5,8 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1c1070a-55d2-4fc9-b5ce-3fc0b58af823" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_portfolio/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_portfolio/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/app.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/aurora.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/code.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/code1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/code2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/code3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/code4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/coding.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/cross-platform.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/instagram.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/laptop-screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/pinterest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/program.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/program1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/programming.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/technology.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/tuition.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/assets/img/images/val.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/portfolio-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/portfolio-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/service-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/service-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/starter-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/starter-page.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,26 +45,26 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ValerieMbaka"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ValerieMbaka&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ValerieMbaka/portfolio.git",
-    "accountId": "ab60bb61-c83f-4aeb-a502-a42505a6fc14"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ValerieMbaka/portfolio.git&quot;,
+    &quot;accountId&quot;: &quot;ab60bb61-c83f-4aeb-a502-a42505a6fc14&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -50,7 +79,7 @@
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/user/OneDrive/Desktop/Web Development/Django/my_portfolio/app/templates",
+    "last_opened_file_path": "C:/Users/user/OneDrive/Desktop/Web Development/Django/my_portfolio/app/static/assets/img/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -61,6 +90,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\OneDrive\Desktop\Web Development\Django\my_portfolio\app\static\assets\img\images" />
       <recent name="C:\Users\user\OneDrive\Desktop\Web Development\Django\my_portfolio\app\templates" />
       <recent name="C:\Users\user\OneDrive\Desktop\Web Development\Django\my_portfolio\app\static" />
     </key>
@@ -109,6 +139,8 @@
       <updated>1731087011214</updated>
       <workItem from="1731087012485" duration="797000" />
       <workItem from="1731093452614" duration="809000" />
+      <workItem from="1731170183089" duration="208000" />
+      <workItem from="1731170484457" duration="8499000" />
     </task>
     <servers />
   </component>
